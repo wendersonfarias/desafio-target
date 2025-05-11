@@ -1,0 +1,32 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Diretórios de build e cache
+dist/
+build/
+.cache/
+.next/
+out/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ambiente
+.env
+.env.local
+.env.*.local
+
+# IDEs e editores
+.vscode/
+.idea/
+
+# Outros
+coverage/
